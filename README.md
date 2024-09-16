@@ -1,5 +1,6 @@
 <h1>Notes Management Application</h1>
-This project was my first project during the Pre Codeable bootcamp. It is a simple note management application built using HTML, CSS, and JavaScript.
+<p>Created on march 2024</p>
+This project was my first project during Codeable bootcamp. It is a simple note management application built using HTML, CSS, and JavaScript.
 
 <h2>Features</h2>
 <b>Display Initial Task List:</b>
