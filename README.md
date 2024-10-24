@@ -1,6 +1,10 @@
-<h1>Notes Management Application</h1>
+<h1>Notes Management Front-end Application</h1>
 <p>Created on march 2024</p>
 This project was my first project during Codeable bootcamp. It is a simple note management application built using HTML, CSS, and JavaScript.
+
+<h2>Demo</h2>
+
+![app note functionality](/ezgif.com-video-to-gif-converter.gif)
 
 <h2>Features</h2>
 <b>Display Initial Task List:</b>
